@@ -1,0 +1,35 @@
+
+Scalpel version 1.60 audit file
+Started at Fri Apr 10 14:15:15 2020
+Command line:
+scalpel ch9_data -o scalpel_output/ 
+
+Output directory: /home/seuz/Documents/Digital_Forensic/Vitaly_Tasks/scalpel_output
+Configuration file: /etc/scalpel/scalpel.conf
+
+Opening target "H="
+
+The following files were carved:
+File		  Start			Chop		Length		Extracted From
+00000018.pdf      9781760		NO           180206		ch9_data
+00000017.pdf      9247744		NO           714222		ch9_data
+00000016.pdf      7769600		NO          2192366		ch9_data
+00000015.pdf      6458368		NO          3503598		ch9_data
+00000014.pdf      6310400		NO          3651566		ch9_data
+00000013.pdf      6268416		NO          3693550		ch9_data
+00000012.pdf      2921984		NO           672623		ch9_data
+00000011.pdf      2267136		NO          1327471		ch9_data
+00000010.pdf      2066432		NO          1528175		ch9_data
+00000009.pdf      7769600		NO          1477687		ch9_data
+00000008.pdf      6458368		NO          2788919		ch9_data
+00000007.pdf      6310400		NO          2936887		ch9_data
+00000006.pdf      6268416		NO          2978871		ch9_data
+00000005.pdf      4441088		NO          4806199		ch9_data
+00000004.pdf      3816960		NO          3953407		ch9_data
+00000003.pdf      3594752		NO          4175615		ch9_data
+00000002.pdf      2921984		NO          4848383		ch9_data
+00000001.pdf      2267136		NO          4190998		ch9_data
+00000000.pdf      2066432		NO          4391702		ch9_data
+
+
+Completed at Fri Apr 10 14:15:16 2020
